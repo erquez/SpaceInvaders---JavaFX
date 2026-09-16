@@ -20,7 +20,7 @@ The core of the game (Model) is built upon advanced OOP principles to ensure sca
 *   Dynamic navigation system through controllers and visual state management for entity selection and ranking.
 
 ## Development Team
-This project was collaboratively developed by Erik, Julen, and Alex. 
+This project was collaboratively developed by Erik Vazquez, Julen Carasa, and Alex Hinojar. 
 
 **My specific contributions to the project include:**
 *   Developing the Controller layer and managing the navigation flow between different screens.
